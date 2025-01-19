@@ -1,1 +1,1 @@
-
+At the outset, I performed data transformation on the Searches_raw and Active_raw datasets. Following the transformation, I created pivot tables for both datasets to extract key insights. Finally, leveraging the results of the data transformation and pivot tables, I addressed the questions from Q1 to Q7.
